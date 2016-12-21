@@ -1,15 +1,16 @@
 # Agent Status
 
-Ingress���n�߂�2014/7/16����A16�ɂȂ�܂ł�848���̑S�L�^�ł��BA3(2014/7/16)�ɂȂ����Ƃ��Ƀn�}�邱�Ƃ��m�M���ċL�^���͂��߂܂����B�Ƃ��ǂ������������ł������A�ꃖ�����炢���������납�疈���L�^���Ƃ�悤�ɂȂ�܂����B2014/11�����납��UPC��Link�����Ă��܂��B
+Ingressを始めた2014/7/16からA16になるまでの848日の全記録です。A3(2014/7/16)になったときにハマることを確信して記録しはじめました。ときどきメモするつもりでしたが、一ヶ月くらいたったころから毎日記録をとるようになりました。2014/11月ころからUPCやLinkをしています。
 
-2015�ɓ��������납��Inventory�̋L�^���͂��߂Ă��܂��B2015�N���ɂ�ADA/JARVIS�A�r������AXA/LPC/SBUL/VRHS/VRMH�ȂǋH���A�C�e�����ǉ����܂����BAGENT��ʂ̏��͋L�^���Ă�����͂���Ǝv���܂����A�C���x���g���̋L�^�͖ʓ|�Ȃ̂ŋL�^�͏��Ȃ��Ǝv���܂��B(���̎��_�̏��������L�^���Ă���̂ŁA���̊Ԃ̏���/�⋋�͔��f����Ă��܂���)
+2015に入ったころからInventoryの記録もはじめています。2015年末にはADA/JARVIS、途中からAXA/LPC/SBUL/VRHS/VRMHなど稀少アイテムも追加しました。AGENT画面の情報は記録している方はいると思いますが、インベントリの記録は面倒なので記録は少ないと思います。(朝の時点の所持数を記録しているので、その間の消費/補給は反映されていません)
 
-AGENT��ʂ̃L���v�`������������Ă��܂����B�Q�[�����n�߂�3�T�Ԍ�AA4�ɂȂ���������A(�R��Ă����������)754�����̃L���v�`���摜������܂��B
+AGENT画面のキャプチャも毎日取っていました。ゲームを始めて3週間後、A4になった日から、(漏れている日を除き)754日分のキャプチャ画像があります。
 
-- data/agentstat.csv -- �S�f�[�^CSV(1�s�ڂ��J������)
-- capture/*.png -- AGENT��ʃL���v�`��
+- data/agentstat.csv -- 全データCSV(1行目がカラム名)
+- capture/*.png -- AGENT画面キャプチャ
+	- このデータから作成した動画は[YouTube](https://www.youtube.com/watch?v=V9FybXKdeRE)
 
-�����R�ɂ��g�����������B
+ご自由にお使いください。
 
 ![AP](img/ap16.png)
 ![Inventory](img/inventory16.png)
