@@ -8,14 +8,15 @@ AGENT画面のキャプチャも毎日取っていました。ゲームを始め
 
 - data/agentstat.csv -- 全データCSV(1行目がカラム名)
 - capture/*.png -- AGENT画面キャプチャ
-	- このデータから作成した動画は[YouTube](https://www.youtube.com/watch?v=V9FybXKdeRE)
+	- このデータから作成した動画は[YouTube](https://www.youtube.com/watch?v=V9FybXKdeRE)に
 
 ご自由にお使いください。
+
+2016/12/21: suchiorg(RES:A16)
 
 ![AP](img/ap16.png)
 ![Inventory](img/inventory16.png)
 
-2016/12/21: suchiorg(RES:A16)
 
 
 
